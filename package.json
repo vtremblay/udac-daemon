@@ -1,0 +1,23 @@
+{
+  "name": "udac-daemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtremblay/udac-daemon.git"
+  },
+  "author": "Vincent Tremblay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vtremblay/udac-daemon/issues"
+  },
+  "homepage": "https://github.com/vtremblay-pj/udac-daemon#readme",
+  "dependencies": {
+    "oracledb": "^1.9.3",
+    "soajs": "^0.3.1"
+  }
+}
